@@ -6,3 +6,11 @@ Native Platform App using expo-cli, Yup and Formik forms, apisauce linked to a n
 Implemented an offline support, data stored in cache, modulable components hooks and personalised routes.
 
 Authentification, login/register, navigable screens and notifications.
+
+-----------------------------------------------
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.<br />
