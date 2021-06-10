@@ -14,3 +14,17 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.<br />
+
+-----------------------------------------------
+
+In the project directory to start the backend server (https://github.com/Amisha-here/found-4-u-backend), you can run:
+
+### `npm i`
+
+Installs all the node modules.<br />
+
+### `node index.js`
+
+Starts the server at 9000 port.<br />
+
+You can verify using http://localhost:9000/api/listings <br />
